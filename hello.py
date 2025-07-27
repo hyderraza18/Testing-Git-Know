@@ -1,4 +1,3 @@
-import seaborn 
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
+# checking to see is there are any changes
+
+print("yo wassup g how u doin sike")
